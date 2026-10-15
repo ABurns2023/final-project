@@ -916,10 +916,13 @@ section #testimonials {
   margin-top: 40px;
 }
 
-.testimonials__rating {
-  color: rgba(246, 173, 85);
+.testimonial__rating {
   margin-right: 2px;
   margin-top: 4px;
+}
+
+.testimonial__rating i {
+  color: rgba(246, 173, 85);
 }
 
 .testimonial__title {
