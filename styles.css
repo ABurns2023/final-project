@@ -903,6 +903,13 @@ section #testimonials {
   width: 50%;
 }
 
+.testimonial__rating path {
+  color: rgb(246 173 85);
+  display: inline-block;
+  height: 1.25rem;
+  width: 1.25rem;
+}
+
 .testimonials__description {
   display: flex;
   flex-direction: column;
@@ -972,7 +979,7 @@ section #testimonials {
 }
 
 .fa-star {
-  color: inherit rgb(246 173 85);
+  color: rgb(246 173 85);
   display: inline-block;
   height: 1.25rem;
   width: 1.25rem;
