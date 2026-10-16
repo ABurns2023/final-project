@@ -924,8 +924,8 @@ section #testimonials {
 }
 
 .testimonial__rating svg {
-  color: rgba(246, 173, 85);
-  fill: rgba(246, 173, 85);
+  color: rgba(246, 173, 85) !important;
+  fill: rgba(246, 173, 85) !important;
 }
 
 .testimonial__title {
